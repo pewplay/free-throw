@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/pewplay/pewplay/main/schema/game.schema.json",
+  "title": "Free Throw",
+  "description": "Shoot hoops against the clock: drag back, release and sink as many baskets as you can in 60 seconds. Free basketball game in your browser.",
+  "about": "Free Throw is a fast basketball shooting challenge set in an indoor arena. You have sixty seconds to score as many baskets as possible. Every new ball appears at a different spot on the court, so each shot needs a slightly different arc.\n\nDrag back from anywhere on the screen and a dotted line shows the path of your shot; release to throw. The ball bounces realistically off the rim and the backboard, so near misses can still roll in. A clean swish that touches nothing but net is worth an extra point, shots from behind the three-point line are worth three, and every three baskets in a row add a streak bonus.\n\nYour best score is saved, so you can keep coming back to beat it.",
+  "howToPlay": "Press anywhere, drag back and release to shoot: the direction and length of the drag set the angle and the power, as shown by the dotted line. Normal baskets are worth 2 points, three-pointers 3, a swish adds 1 and streaks add more. Score as much as you can before the 60 seconds run out.",
+  "controls": [
+    {
+      "input": "Drag and release",
+      "action": "Aim and shoot"
+    },
+    {
+      "input": "Space",
+      "action": "Quick shot with the keyboard"
+    },
+    {
+      "input": "Esc / P",
+      "action": "Pause"
+    }
+  ],
+  "tips": [
+    "A high arc is more forgiving than a flat shot.",
+    "Aim for the back half of the rim; the backboard can help short shots go in.",
+    "Do not rush: a made basket is worth more than two quick misses.",
+    "Keep your streak alive for bonus points on every basket."
+  ],
+  "faq": [
+    {
+      "question": "Is Free Throw free to play?",
+      "answer": "Yes. Free Throw is free and runs in your browser, with no download or sign-up."
+    },
+    {
+      "question": "Can I play Free Throw on a phone or tablet?",
+      "answer": "Yes. Drag back with your finger and release to shoot. It works in portrait and landscape; landscape shows more of the court."
+    },
+    {
+      "question": "How are points scored?",
+      "answer": "2 points for a basket, 3 from behind the three-point line, +1 for a swish that does not touch the rim or backboard, and a growing bonus for baskets in a row."
+    }
+  ],
+  "category": "Sports",
+  "tags": [
+    "basketball",
+    "hoops",
+    "shooting",
+    "sports",
+    "arcade"
+  ],
+  "author": "PewPlay",
+  "playMode": "SinglePlayer",
+  "orientation": "any",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ],
+  "added": "2026-11-26",
+  "draft": false
+}
